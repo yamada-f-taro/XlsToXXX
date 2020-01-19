@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <ValueListCatalog>
+    <名前>佐藤</名前>
+    <住所>北海道札幌市</住所>
+    <年齢>28</年齢>
+  </ValueListCatalog>
+  <ScriptCatalog>
+    <Script name="スタート時処理">
+      <StepList>
+        <Step name="エラー処理">
+          <StepText>エラー処理[ON]</StepText>
+        </Step>
+        <Step name="エラー処理2">
+          <StepText>エラー処理2[ON]</StepText>
+        </Step>
+      </StepList>
+    </Script>
+    <Script name="スタート時処理b">
+      <StepList>
+        <Step name="エラー処理b">
+          <StepText>エラー処理b[ON]</StepText>
+        </Step>
+        <Step name="エラー処理b2">
+          <StepText>エラー処理b2[ON]</StepText>
+        </Step>
+      </StepList>
+    </Script>
+  </ScriptCatalog>
+</root>
